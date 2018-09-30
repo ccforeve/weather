@@ -103,4 +103,9 @@ class Weather
     {
         return $this->getWeather($city, 'all', $format);
     }
+
+    public function test(  )
+    {
+        
+    }
 }
